@@ -1,0 +1,2 @@
+text inside file created async
+this is another line

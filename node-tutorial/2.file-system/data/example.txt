@@ -1,0 +1,2 @@
+this text is in example.txt file
+This is a new text line appended
